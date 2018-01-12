@@ -13,15 +13,15 @@ This extension render a sortable GridView which you can drag and drop the record
 ### Installing
 Install with Composer:
 
-    composer require richardfan1126/yii2-sortable-gridview "*"
+    composer require nexen/yii2-sortable-gridview "*"
 
 or
 
-    php composer.phar require richardfan1126/yii2-sortable-gridview "*"
+    php composer.phar require nexen/yii2-sortable-gridview "*"
 
 or add
 
-    "richardfan1126/yii2-sortable-gridview":"*"
+    "nexen/yii2-sortable-gridview":"*"
 to the require section of your composer.json file.
 
 ### Setting up SortableAction
