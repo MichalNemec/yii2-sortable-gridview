@@ -1,5 +1,5 @@
 {
-	"name" : "MichalNemec/yii2-sortable-gridview",
+	"name" : "nexen/yii2-sortable-gridview",
 	"description" : "Sortable GridView for Yii2",
 	"type" : "yii2-extension",
 	"license" : "MIT",
